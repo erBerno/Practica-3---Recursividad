@@ -1,0 +1,21 @@
+D:\Proyectos Progra III\Practica3 - Recursividad (Bernardo Garcia)\Practica3Recursividad - Ejercicio5\Practica3Recursividad - Ejercicio5\bin\Debug\net6.0-windows\Practica3Recursividad - Ejercicio5.exe
+D:\Proyectos Progra III\Practica3 - Recursividad (Bernardo Garcia)\Practica3Recursividad - Ejercicio5\Practica3Recursividad - Ejercicio5\bin\Debug\net6.0-windows\Practica3Recursividad - Ejercicio5.deps.json
+D:\Proyectos Progra III\Practica3 - Recursividad (Bernardo Garcia)\Practica3Recursividad - Ejercicio5\Practica3Recursividad - Ejercicio5\bin\Debug\net6.0-windows\Practica3Recursividad - Ejercicio5.runtimeconfig.json
+D:\Proyectos Progra III\Practica3 - Recursividad (Bernardo Garcia)\Practica3Recursividad - Ejercicio5\Practica3Recursividad - Ejercicio5\bin\Debug\net6.0-windows\Practica3Recursividad - Ejercicio5.dll
+D:\Proyectos Progra III\Practica3 - Recursividad (Bernardo Garcia)\Practica3Recursividad - Ejercicio5\Practica3Recursividad - Ejercicio5\bin\Debug\net6.0-windows\ref\Practica3Recursividad - Ejercicio5.dll
+D:\Proyectos Progra III\Practica3 - Recursividad (Bernardo Garcia)\Practica3Recursividad - Ejercicio5\Practica3Recursividad - Ejercicio5\bin\Debug\net6.0-windows\Practica3Recursividad - Ejercicio5.pdb
+D:\Proyectos Progra III\Practica3 - Recursividad (Bernardo Garcia)\Practica3Recursividad - Ejercicio5\Practica3Recursividad - Ejercicio5\obj\Debug\net6.0-windows\Practica3Recursividad - Ejercicio5.csproj.AssemblyReference.cache
+D:\Proyectos Progra III\Practica3 - Recursividad (Bernardo Garcia)\Practica3Recursividad - Ejercicio5\Practica3Recursividad - Ejercicio5\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Proyectos Progra III\Practica3 - Recursividad (Bernardo Garcia)\Practica3Recursividad - Ejercicio5\Practica3Recursividad - Ejercicio5\obj\Debug\net6.0-windows\App.g.cs
+D:\Proyectos Progra III\Practica3 - Recursividad (Bernardo Garcia)\Practica3Recursividad - Ejercicio5\Practica3Recursividad - Ejercicio5\obj\Debug\net6.0-windows\Practica3Recursividad - Ejercicio5_MarkupCompile.cache
+D:\Proyectos Progra III\Practica3 - Recursividad (Bernardo Garcia)\Practica3Recursividad - Ejercicio5\Practica3Recursividad - Ejercicio5\obj\Debug\net6.0-windows\Practica3Recursividad - Ejercicio5_MarkupCompile.lref
+D:\Proyectos Progra III\Practica3 - Recursividad (Bernardo Garcia)\Practica3Recursividad - Ejercicio5\Practica3Recursividad - Ejercicio5\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Proyectos Progra III\Practica3 - Recursividad (Bernardo Garcia)\Practica3Recursividad - Ejercicio5\Practica3Recursividad - Ejercicio5\obj\Debug\net6.0-windows\Practica3Recursividad - Ejercicio5.g.resources
+D:\Proyectos Progra III\Practica3 - Recursividad (Bernardo Garcia)\Practica3Recursividad - Ejercicio5\Practica3Recursividad - Ejercicio5\obj\Debug\net6.0-windows\Practica3Recursividad - Ejercicio5.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos Progra III\Practica3 - Recursividad (Bernardo Garcia)\Practica3Recursividad - Ejercicio5\Practica3Recursividad - Ejercicio5\obj\Debug\net6.0-windows\Practica3Recursividad - Ejercicio5.AssemblyInfoInputs.cache
+D:\Proyectos Progra III\Practica3 - Recursividad (Bernardo Garcia)\Practica3Recursividad - Ejercicio5\Practica3Recursividad - Ejercicio5\obj\Debug\net6.0-windows\Practica3Recursividad - Ejercicio5.AssemblyInfo.cs
+D:\Proyectos Progra III\Practica3 - Recursividad (Bernardo Garcia)\Practica3Recursividad - Ejercicio5\Practica3Recursividad - Ejercicio5\obj\Debug\net6.0-windows\Practica3Recursividad - Ejercicio5.csproj.CoreCompileInputs.cache
+D:\Proyectos Progra III\Practica3 - Recursividad (Bernardo Garcia)\Practica3Recursividad - Ejercicio5\Practica3Recursividad - Ejercicio5\obj\Debug\net6.0-windows\Practica3Recursividad - Ejercicio5.dll
+D:\Proyectos Progra III\Practica3 - Recursividad (Bernardo Garcia)\Practica3Recursividad - Ejercicio5\Practica3Recursividad - Ejercicio5\obj\Debug\net6.0-windows\ref\Practica3Recursividad - Ejercicio5.dll
+D:\Proyectos Progra III\Practica3 - Recursividad (Bernardo Garcia)\Practica3Recursividad - Ejercicio5\Practica3Recursividad - Ejercicio5\obj\Debug\net6.0-windows\Practica3Recursividad - Ejercicio5.pdb
+D:\Proyectos Progra III\Practica3 - Recursividad (Bernardo Garcia)\Practica3Recursividad - Ejercicio5\Practica3Recursividad - Ejercicio5\obj\Debug\net6.0-windows\Practica3Recursividad - Ejercicio5.genruntimeconfig.cache
